@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"><h1 align="center">Hi 👋, I'm Baris</h1>
+<h1 align="center">Hi 👋, I'm Baris</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A passionate Backend developer from Turkey</h3>
 
