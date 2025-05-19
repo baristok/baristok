@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **.net core**
 
-- 📫 How to reach me **info@baristok.com.tr**
-
 - 🌐 Website: [baristok.com.tr](https://baristok.com.tr)
+
+- 📫 How to reach me **info@baristok.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
