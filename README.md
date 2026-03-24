@@ -6,7 +6,7 @@
 
 - 🌐 Website: [baristok.com](https://baristok.com)
 
-- 📫 How to reach me **contact@baristok.com**
+- 📫 How to reach me **iletisim@baristok.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
