@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A passionate Backend developer from Turkey</h3>
+<h3 align="center">Full Stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.net core**
+- 🚀 I build products end to end: database, API, UI and deployment
+
+- 🤖 Working with AI, LLMs, RAG and Machine Learning models
+
+- ⚡ Heavy user of AI coding agents & harnesses (Claude Code, Codex, Cursor, OpenCode, Oh My Pi): I orchestrate multi-agent workflows, custom skills and hooks to ship faster
 
 - 🌐 Website: [baristok.com](https://baristok.com)
 
@@ -41,3 +45,5 @@
 <img src="https://raw.githubusercontent.com/baristok/baristok/output/snake.svg" alt="Snake animation" />
 
 ###
+
+- 🧠 [claude-mem](https://github.com/thedotmack/claude-mem): Added the Oh My Pi (OMP) hooks adapter ([#3556](https://github.com/thedotmack/claude-mem/pull/3556))
